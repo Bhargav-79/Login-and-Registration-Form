@@ -7,11 +7,11 @@ Login and Registration Form Using PHP where you can register yourself, login and
 3. PHP
 
 # Basic Idea:
-config.php ->  to configure database
-login.php -> allows user to login
-register.php -> allows user to register
-welcome.php -> if user was able to login redirect him to welcome page
-logout.php -> allows user to logout
+1. config.php ->  to configure database
+2. login.php -> allows user to login
+3. register.php -> allows user to register
+4. welcome.php -> if user was able to login redirect him to welcome page
+5. logout.php -> allows user to logout
 
 # Demo:
 Registration Page:
