@@ -5,6 +5,7 @@ Login and Registration Form Using PHP where you can register yourself, login and
 1. CSS 
 2. Bootstrap
 3. PHP
+4. MySQL
 
 # Basic Idea:
 1. config.php ->  to configure database
